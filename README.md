@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Game hacking and serial changing/ spoofing**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
