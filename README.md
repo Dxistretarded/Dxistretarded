@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm dx</h1>
-- 🔭 I’m currently working on [Project Saturn Cs2](https://discord.gg/KDaxudk74b)
+- 🔭 I’m currently working on Project Saturn Cs2
 
 - 📚 I’m currently learning **C, C++, C#**
 
