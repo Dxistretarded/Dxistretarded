@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm dx</h1>
 - 🔭 I’m currently working on Project Quan Val
 
-- 📚 I’m currently learning **C, C++, C#**
-
-- 🎁 Past projects **Quan Valorant, Quantum FN, Quan csgo**
-
-- 🎉 hobbies **Gaming, developing, making projects**
-
-- 💬 Ask me about **Game hacking and serial changing/ spoofing**
-
 
 <p align="left">
 </p>
