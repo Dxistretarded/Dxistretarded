@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm dx</h1>
-- 🔭 I’m currently working on Project Quan Val
 
 
 <p align="left">
